@@ -12,3 +12,4 @@ Slides covering the following chapters:
 - 8: Planning and Learning with Tabular Methods
 - 9: On-policy Prediction with Approximation
 - 10: On-policy Control with Approximation
+- 11: Off-policy Methods with Approximation
