@@ -1,6 +1,6 @@
 # University of Bristol Reinforcement Learning Reading Group
 
-Group reading of Sutton and Barto Oct 2020 - Present
+Group reading of Sutton and Barto Oct 2020 - Feb 2021
 
 Slides covering the following chapters:
 - 1&2: Introduction and Multi-armed Bandits
