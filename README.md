@@ -13,3 +13,7 @@ Slides covering the following chapters:
 - 9: On-policy Prediction with Approximation
 - 10: On-policy Control with Approximation
 - 11: Off-policy Methods with Approximation
+- 12: Eligibility Traces
+- 13: Policy Gradient Methods
+
+
